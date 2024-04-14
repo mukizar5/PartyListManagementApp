@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.8.34525.116
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PartyListManagementApp", "PartyListManagementApp\PartyListManagementApp.csproj", "{EE893546-89B2-43CC-B6F9-FB209A86C73D}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PartyAttendeesManagementApp", "PartyListManagementApp\PartyAttendeesManagementApp.csproj", "{EE893546-89B2-43CC-B6F9-FB209A86C73D}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

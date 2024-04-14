@@ -6,7 +6,12 @@ using System.Threading.Tasks;
 
 namespace PartyAttendeesManagementApp
 {
-    internal class Attendee
+    public class Attendee
     {
+        public string Name { get; set; }
+
+        public double PartyFees { get; set; }
+
+        public DateTime TimeOfArrival { get; set; }
     }
 }
